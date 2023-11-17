@@ -1,0 +1,4 @@
+1. Git upload
+2. aws git clone--> sudo git clone https://github.com/johannes-gertje/frontend_on_aws_1.git
+3. install app--> sudo docker build -t express-app .
+4. zeige alle apps--> sudo docker images 
